@@ -1,1 +1,7 @@
+---
+layout: single
+author_profile: true
+permalink: /
+---
+
 I am a second-year undergraduate student from the [School of Computing and Artificial Intelligence](https://it.swufe.edu.cn/), [Southwestern University of Finance and Economics (SWUFE)](https://www.swufe.edu.cn/). My research interests include deep learning and multi-view learning.
